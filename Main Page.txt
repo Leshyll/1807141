@@ -1,0 +1,35 @@
+<DOCTYPE html>
+<html>
+<head>
+<title align: "center">  </title>
+</head>
+
+<body style= "background-color: #efded1">
+
+<img src= "Assets/Background MP lovely.png" align= "center" Height= "30%" Width= "100%" float= "left">
+<h1 align= "center"> Hey Yall </h1>
+<h2 align= "center"> Welcome To My Life </h2>
+<h4 align= "center"> This is just a little glimpse into my day to day life. We will go into the three aspects of my life, which includes: Personal, Personal Development, and Professional Life. This is me. </h4>
+
+
+<table border= "0" align= "center" height= "50%" width= "80% bgcolor= "" cellcapping= "30%" cellpadding= "30%">
+	<tr align= "center">
+	<td> <a href="Personal 2.html."> <img src= "Assets/Personal Option.png" align= "right" height= "400px" width= "400px"> </a> </td>
+	<td> <a href="Personal Development.html"> <img src= "Assets/Personal Development Option.png" align= "center" height= "400px" width= "400px"> </a> </li> </td>
+	<td> <a href="Professional.html"> <img src= "Assets/Professional Option.png" align= "left" height= "400px" width= "400px"> </a> </td>
+	</tr>
+</table>
+
+<table border= "0" align= "center" height= "50%" width= "80% bgcolor= "" cellcapping= "30%" cellpadding= "30%">
+	<tr align= "center">
+	<td> <a href="Storyboard.html"> <img src= "Assets/Storyboard Option.png" align= "left" height= "400px" width= "400px"> </a> </td>
+	<td> <a href="Reference.html"> <img src= "Assets/Reference Option.png" align= "center" height= "400px" width= "400px"> </a> </td>
+	<td> <a href= "mailto:work.asherel@gmail.com?subject= Comments and Concerns" target= "_blank"> <img src= "Assets/Main Page PIC.jpeg" align= "right" height= "400px" width= "400px"> </td>
+	</tr>
+</table>
+
+
+
+<p> Send Help </p>
+</body>
+</html>
