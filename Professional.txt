@@ -1,0 +1,204 @@
+<DOCTYPE html>
+<html>
+<head>
+<title align: "center"> Professional Life </title>
+
+<a align= "left" class="active" href="Main Page.html"> Home </a> <il> / </il> <a href="Professional.html"> Professional </a>
+
+</head>
+<body style= "background-color: #efded1">
+<img src= "Assets/Professional Header.png" align= "center" Height= "30%" Width= "100%" float= "left">
+<h1 align= "center"> Professional Page </h1>
+</br>
+</br>
+
+<h2 align= "center"> Mantra </h2>
+<table border= "0" align= "center" height= "20%" width= "80%">
+<tr>
+<td align= "center"> <h3> Grow | Glow | Graduate </h3> </td>
+</tr>
+</table>
+</br>
+</br>
+
+<h2 align= "center"> Mission Statement </h2>
+<table border= "0" align= "center" height= "20%" width= "80%">
+<tr>
+<td align= "center"> <h3> Empowering your mind so you can be a light to others around you </h3> </td>
+</tr>
+</table>
+</br>
+</br>
+
+<h1> Asherel Hylton </h1>
+
+<table align= "center" height= "20%" width= "80%">
+<tr>
+<td align= "center"> <img src= "Assets/Expereince.png" align= "center" height= "20%" width= "100%">
+</tr>
+</table>
+
+</br>
+
+<h2 align= "center"> Experience </h2>
+
+<table align= "center" height= "20%" width= "80%">
+<tr>
+<td> <h3 align= "left"> Graphic Design - Hyll Designs </h3> </td>
+</tr>
+<tr>
+<td align= "left"> <strong> JUNE 2022 - ONGOING </strong> </td>
+</tr>
+<tr>
+	<td align= "left"> 
+	<li> Advanced experience in Adobe Photoshop, Adobe Illustrator and Adobe Indesign </li> </br>
+	<li> Organizing Data </li> </br> 
+	<li> Skills in Communications and Sales </li> </br>
+	<li> Produced Graphic Product for clients </li> </td>
+</tr>
+</table>
+
+</br>
+</br>
+
+<table align= "center" height= "20%" width= "80%">
+<tr>
+<td> <h3 align= "left"> Filing Clerk - Source of Light </h3> </td>
+</tr>
+<tr>
+<td align= "left"> <strong> JULY 2021 - AUGUST 2021 </strong> </td>
+</tr>
+<tr>
+	<td align= "left"> 
+	<li> Organized inventory </li> </br>
+	<li> Process improvement </li> </br>
+	<li> Inventory Tracking</li>  </br>
+	<li> Produced Graphic Product for clients </li> 
+</td>
+</tr>
+</table>
+
+</br>
+</br>
+
+<table align= "center" height= "20%" width= "80%">
+<tr>
+<td> <h3 align= "left"> Resident Manager - Edna Manely School of the Visual and Performing Arts </h3> </td>
+</tr>
+<tr>
+<td align= "left"> <strong> JULY 2018 - AUGUST 2019 </strong> </td>
+</tr>
+<tr>
+<td align= "left">
+	<li> Optimize living experience on the dorm for the upcomming semester </li> </br>
+	<li> Organized files for new residents for the fall semester </li> </br>
+	<li> Inventory Tracking </li> </br>
+	<li> Produced Graphic Product for clients </li> 
+</td>
+</tr>
+</table>
+
+</br>
+</br>
+</br>
+
+<table align= "center" height= "20%" width= "80%">
+<tr>
+<td align= "center"> <img src= "Assets/Education.png" align= "center" height= "20%" width= "100%">
+</tr>
+</table>
+
+</br>
+
+<h2 align= "center"> Education </h2>
+
+<table align= "center" height= "20%" width= "80%">
+<tr>
+<td> <h3 align= "left"> University of Technology </h3> </td>
+</tr>
+<tr>
+<td> Bachelors of Animation Production and Management </td>
+</tr>
+<td align= "left"> SEPTEMBER 2019 - ONGOING </strong> </td>
+</tr>
+</table>
+
+</br>
+
+<table align= "center" height= "20%" width= "80%">
+<tr>
+<td> <h3 align= "left"> iCreate-University of the Commonwealth Caribbean </h3> </td>
+</tr>
+<tr>
+<td> Associates Degree in Digital Media </td>
+</tr>
+<td align= "left"> SEPTEMBER 2018 - MARCH 2019 </strong> </td>
+</tr>
+</table>
+
+</br>
+
+<table align= "center" height= "20%" width= "80%">
+<tr>
+<td> <h3 align= "left"> Wolmers Trust High School for Girls </h3> </td>
+</tr>
+<tr>
+<td> Diploma </td>
+</tr>
+<td align= "left"> SEPTEMBER 2014 - JULY 2018 </strong> </td>
+</tr>
+</table>
+
+</br>
+</br>
+</br>
+
+<table align= "center" height= "20%" width= "80%">
+<tr>
+<td align= "center"> <img src= "Assets/Volunteer.png" align= "center" height= "20%" width= "100%">
+</tr>
+</table>
+
+<h2 align= "center"> Volunteer Experience </h2>
+
+<table align= "center" height= "20%" width= "80%">
+<tr>
+<td> <h3 align= "left"> Nursing and Children's Church - New Tesament Church of God </h3> </td>
+</tr>
+<tr>
+<td align= "left"> <strong> JUNE 2016 - AUGUST 2019 </strong> </td>
+</tr>
+<tr>
+	<td align= "left"> 
+	<li> Monitering Guest and Visitors </li> </br> 
+	<li> House Cleaning </li> </br>
+	<li> Monitering Meals </li> </br>
+	<li> Collecting work from students </li> </br>  
+	<li> Comb Hair </li> </td>
+</tr>
+</table>
+
+</br>
+</br>
+
+<table align= "center" height= "20%" width= "80%">
+<tr>
+<td> <h3 align= "left"> Teachers Assitant - New Age Basic School </h3> </td>
+</tr>
+<tr>
+<td align= "left"> <strong> FEBURARY 2022 - AUGUST 2022 </strong> </td>
+</tr>
+<tr>
+	<td align= "left"> 
+	<li> Monitering Guest and Visitors </li> </br> 
+	<li> Marking Papers </li> </br>
+	<li> Preparing Lesson Plans </li> </br>
+	<li> Collecting work from students </li> </br>  
+	<li> Interacting with the students </li> </td>
+</tr>
+
+</br>
+</br>
+</br>
+</body>
+</html>
