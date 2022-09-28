@@ -3,7 +3,7 @@
 <head>
 <div class= "topnav home">
 
-<a class="active" href="Main Page.html"> Home </a> <il> / </il> <a href="Personal Development.html"> Personal Development </a> </li>
+<a class="active" href="index.html"> Home </a> <il> / </il> <a href="Personal Development.html"> Personal Development </a> </li>
 
 <img src= "Assets/Personal Development Header.png" align= "center" height= "30%" width= "100%">
 <title align: "center"> Personal Development </title>
