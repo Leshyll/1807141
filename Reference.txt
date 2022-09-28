@@ -3,7 +3,7 @@
 <head>
 <title align: "center"> Reference Page </title>
 
-<a class="active" href="Main Page.html"> Home </a> <il> / </il>  <a href="Reference.html"> Reference </a>
+<a class="active" href="index.html"> Home </a> <il> / </il>  <a href="Reference.html"> Reference </a>
 		</ul>
 </head>
 <body>
