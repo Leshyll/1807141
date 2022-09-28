@@ -14,17 +14,17 @@
 
 <table border= "0" align= "center" height= "50%" width= "80% bgcolor= "" cellcapping= "30%" cellpadding= "30%">
 	<tr align= "center">
-	<td> </a href="Personal 2.html."> <img src= "Assets/Personal Option.png" align= "right" height= "400px" width= "400px"> </a> </td>
-	<td> </a href="Personal Development.html"> <img src= "Assets/Personal Development Option.png" align= "center" height= "400px" width= "400px"> </a> </li> </td>
-	<td> </a href="Professional.html"> <img src= "Assets/Professional Option.png" align= "left" height= "400px" width= "400px"> </a> </td>
+	<td> <a href="Personal 2.html."> <img src= "Assets/Personal Option.png" align= "right" height= "400px" width= "400px"> </a> </td>
+	<td> <a href="Personal Development.html"> <img src= "Assets/Personal Development Option.png" align= "center" height= "400px" width= "400px"> </a> </li> </td>
+	<td> <a href="Professional.html"> <img src= "Assets/Professional Option.png" align= "left" height= "400px" width= "400px"> </a> </td>
 	</tr>
 </table>
 
 <table border= "0" align= "center" height= "50%" width= "80% bgcolor= "" cellcapping= "30%" cellpadding= "30%">
 	<tr align= "center">
-	<td> </a href="Storyboard.html"> <img src= "Assets/Storyboard Option.png" align= "left" height= "400px" width= "400px"> </a> </td>
-	<td> </a href="Reference.html"> <img src= "Assets/Reference Option.png" align= "center" height= "400px" width= "400px"> </a> </td>
-	<td> </a href= "mailto:work.asherel@gmail.com?subject= Comments and Concerns" target= "_blank"> <img src= "Assets/Main Page PIC.jpeg" align= "right" height= "400px" width= "400px"> </td>
+	<td> <a href="Storyboard.html"> <img src= "Assets/Storyboard Option.png" align= "left" height= "400px" width= "400px"> </a> </td>
+	<td> <a href="Reference.html"> <img src= "Assets/Reference Option.png" align= "center" height= "400px" width= "400px"> </a> </td>
+	<td> <a href= "mailto:work.asherel@gmail.com?subject= Comments and Concerns" target= "_blank"> <img src= "Assets/Main Page PIC.jpeg" align= "right" height= "400px" width= "400px"> </td>
 	</tr>
 </table>
 
