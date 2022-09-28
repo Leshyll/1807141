@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
 <head>
-			<a class="active" href="Main Page.html"> Home</a>
+			<a class="active" href="index.html"> Home</a>
 			<a href="Storyboard.html"> Personal </a>
  
 
