@@ -29,7 +29,5 @@
 </table>
 
 
-
-<p> Send Help </p>
 </body>
 </html>
